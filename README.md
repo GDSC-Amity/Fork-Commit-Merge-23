@@ -6,7 +6,7 @@ Welcome to the official GitHub repository for the "Fork Commit Merge" event! Her
 
 - **Event Name:** Fork Commit Merge
 - **Date:** October 19, 2023
-- **Location:** Amity University, Noida
+- **Location:** E3-317, Amity University, Noida
 - **Event Website:** [Fork Commit Merge Event Website](https://gdsc.community.dev/e/mze6rp/)
 - **Event Social Media:** [Connect on our Socials](https://linktr.ee/gdscamity)
 
