@@ -1,5 +1,7 @@
 # Fork Commit Merge
 
+![Coding](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
 Welcome to the official GitHub repository for the "Fork Commit Merge" event! Here, you'll find all the essential information about our upcoming event, so you can join us and make the most of this exciting opportunity.
 
 ## Event Details
